@@ -5,7 +5,7 @@
 This is the place where I opensource stuff and break things 🤣
 
 🔭 I’m currently working on A Platform for INSA</br>
-🌱 I’m currently learning</br>
+🌱 Currently learning</br>
 💬 Ask me about Dart, Flutter and JavaScript</br>
 ⚡ I enjoy tinkering with electronics, hardware hacking, and software development in general.</br>
 📫 How to reach me: @FasTeshome on Telegram</br>
