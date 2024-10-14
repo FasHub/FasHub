@@ -1,4 +1,4 @@
-[![](https://github.com/FasHub/FasHub/blob/master/hero.gif)](https://www.adamalston.com/)
+[![](https://github.com/FasHub/FasHub/blob/master/hero.gif)](https://www.fasteshome.com/)
 
 # 💫About Me :
 
