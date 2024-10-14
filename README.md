@@ -1,5 +1,5 @@
 ![Hero Image](https://github.com/FasHub/FasHub/blob/master/hero.gif?raw=true)
-<img src="https://github.com/FasHub/FasHub/blob/master/hero.gif" width="100%" height="216px"/>
+
 # 💫About Me :
 
 This is the place where I opensource stuff and break things 🤣
