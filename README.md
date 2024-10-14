@@ -1,4 +1,4 @@
-[![](https://github.com/FasHub/FasHub/blob/master/hero.gif)](https://www.fasteshome.com/)
+[![](./hero.gif)](https://www.fasteshome.com/)
 
 # 💫About Me :
 
