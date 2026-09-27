@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fasil Teshome monogram</title>
+  <desc id="desc">A stone-colored geometric F and T on an espresso square.</desc>
+  <rect width="512" height="512" rx="112" fill="#241D19"/>
+  <g transform="translate(109 131) scale(1.42)" fill="#BFA58A">
+    <path d="M0 0H92V28H28V72H78V100H28V176H0Z"/>
+    <path d="M114 0H206V28H174V176H146V28H114Z"/>
+  </g>
+</svg>

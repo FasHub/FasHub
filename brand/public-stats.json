@@ -1,0 +1,64 @@
+{
+  "schema_version": 2,
+  "account": "FasHub",
+  "updated_at": "2026-09-27T11:54:11Z",
+  "year": 2026,
+  "joined": "2021-04-04",
+  "public_repositories": 36,
+  "stars_earned": 35,
+  "followers": 10,
+  "commits_year": 4,
+  "commits_all_time": 87,
+  "contributions_year": 2994,
+  "contributions_all_time": 5868,
+  "annual": [
+    {
+      "year": 2021,
+      "commits": 34,
+      "contributions": 52,
+      "restricted": 0
+    },
+    {
+      "year": 2022,
+      "commits": 13,
+      "contributions": 107,
+      "restricted": 90
+    },
+    {
+      "year": 2023,
+      "commits": 0,
+      "contributions": 6,
+      "restricted": 6
+    },
+    {
+      "year": 2024,
+      "commits": 20,
+      "contributions": 358,
+      "restricted": 336
+    },
+    {
+      "year": 2025,
+      "commits": 16,
+      "contributions": 2351,
+      "restricted": 2324
+    },
+    {
+      "year": 2026,
+      "commits": 4,
+      "contributions": 2994,
+      "restricted": 2987
+    }
+  ],
+  "monthly_contributions": [
+    276,
+    116,
+    201,
+    290,
+    105,
+    175,
+    166,
+    1392,
+    273
+  ],
+  "scope": "GitHub-visible contribution history. Shared private activity is included only as anonymous contribution totals; it is never added to commit totals."
+}

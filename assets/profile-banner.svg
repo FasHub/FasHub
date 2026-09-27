@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Fasil Teshome</title>
+  <desc id="desc">Software Development Manager at Koket Inc and co-founder of YOME PLC. Espresso, walnut and stone personal identity.</desc>
+  <rect width="1280" height="360" rx="14" fill="#241D19"/>
+  <path d="M960 0H1266Q1280 0 1280 14V346Q1280 360 1266 360H960Z" fill="#33312F"/>
+  <rect x="960" width="8" height="360" fill="#6B4F3A"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="126" font-size="76" font-weight="700" letter-spacing="-3" fill="#D8C9BA">Fasil Teshome</text>
+    <text x="67" y="182" font-size="30" fill="#FAF8F5">Software Development Manager</text>
+    <text x="67" y="227" font-size="25" fill="#BFA58A">Koket Inc / Co-founder, YOME PLC</text>
+    <text x="67" y="306" font-size="23" font-weight="700" fill="#BFA58A">FasHub</text>
+  </g>
+  <g transform="translate(1014 92)" fill="#BFA58A">
+    <path d="M0 0H92V28H28V72H78V100H28V176H0Z"/>
+    <path d="M114 0H206V28H174V176H146V28H114Z"/>
+  </g>
+</svg>

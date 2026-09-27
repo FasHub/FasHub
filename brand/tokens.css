@@ -1,0 +1,12 @@
+:root {
+  --brand-walnut: #6b4f3a;
+  --brand-espresso: #241d19;
+  --brand-graphite: #33312f;
+  --brand-stone: #bfa58a;
+  --brand-linen: #d8c9ba;
+  --brand-paper: #faf8f5;
+  --brand-text-on-light: var(--brand-walnut);
+  --brand-text-on-dark: var(--brand-stone);
+  --brand-font-heading: "Hubot Sans", Arial, Helvetica, sans-serif;
+  --brand-font-body: "Mona Sans", Arial, Helvetica, sans-serif;
+}
