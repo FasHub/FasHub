@@ -1,9 +1,9 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/profile-banner-mobile.svg" />
-  <img src="./assets/profile-banner.svg" alt="Fasil Teshome — Software Development Manager and co-founder of YOME PLC" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Fasil Teshome — Koket Inc - Software Department Manager; Yome PLC - Co-founder" width="100%" />
 </picture>
 
-I'm **Fasil Teshome**, Software Development Manager at **Koket Inc** and co-founder of **YOME PLC**, based in Addis Ababa, Ethiopia. Previously, I worked at **INSA**.
+I'm **Fasil Teshome**, Software Department Manager at **Koket Inc** and co-founder of **Yome PLC**, based in Addis Ababa, Ethiopia. Previously, I worked at **INSA**.
 
 I'm a **Software Engineering graduate of Mekelle University**. Most of my professional work is in private repositories.
 
