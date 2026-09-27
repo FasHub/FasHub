@@ -7,6 +7,10 @@ I'm **Fasil Teshome**, Software Development Manager at **Koket Inc** and co-foun
 
 I'm a **Software Engineering graduate of Mekelle University**. Most of my professional work is in private repositories.
 
+My experience includes working on a **software product for the Ethiopian Civil Service Commission**.
+
+I offer **freelance consulting for founders starting their own software companies**. I also **teach programming languages** and help aspiring developers build strong software engineering skills.
+
 [LinkedIn](https://www.linkedin.com/in/fasil-teshome/) · [Telegram](https://t.me/fashub21)
 
 <h2>
@@ -16,9 +20,10 @@ I'm a **Software Engineering graduate of Mekelle University**. Most of my profes
   </picture>
 </h2>
 
-I'm an **AI engineer** with a background in full-stack web and mobile development, from **Flutter** apps and **React** interfaces to **Node.js** and **NestJS** services and APIs.
+I'm an **AI engineer** with a background in full-stack web, mobile and desktop development, from **Flutter** apps, **React** interfaces and **Electron.js** desktop applications to **Node.js** and **NestJS** services and APIs.
 
 - **Mobile:** Flutter, Dart, BLoC and RxDart
+- **Desktop:** Electron.js
 - **Web:** React, JavaScript, HTML, CSS and Tailwind CSS
 - **Backend:** Node.js, NestJS, Express, REST APIs and MongoDB
 - **Tools & interests:** Docker, Git, electronics and hardware tinkering
@@ -50,4 +55,4 @@ Contributions include publicly shared private activity. Commit totals cover cont
   </picture>
 </h2>
 
-For engineering leadership, product development or technical collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/fasil-teshome/) or [Telegram](https://t.me/fashub21).
+For software company consulting, programming education, engineering leadership or product development, connect with me on [LinkedIn](https://www.linkedin.com/in/fasil-teshome/) or [Telegram](https://t.me/fashub21).

@@ -36,6 +36,12 @@ GitHub removes inline styles, so colored section headings use small SVG images i
 
 Lead with the current roles: Software Development Manager at Koket Inc and co-founder of YOME PLC. Mention INSA as previous employment. Describe AI engineering and full-stack web and mobile experience, including NestJS. State that Fasil is a Software Engineering graduate of Mekelle University. Keep the statement that most professional work is private; omit tutorial repositories as portfolio projects.
 
+Fasil also offers freelance consulting for founders starting their own software companies. Include this in the introduction and contact invitation without promising specific services or outcomes beyond his stated experience.
+
+He teaches programming languages and helps aspiring developers build strong software engineering skills. Mention programming education in the contact invitation.
+
+His experience includes work on a software product for the Ethiopian Civil Service Commission. Mention the work without implying direct employment or publishing private project details. Include Electron.js under desktop development in the engineering stack.
+
 Telegram: https://t.me/fashub21
 
 LinkedIn: https://www.linkedin.com/in/fasil-teshome/
