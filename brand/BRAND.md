@@ -40,7 +40,7 @@ Fasil also offers freelance consulting for founders starting their own software 
 
 He teaches programming languages and helps aspiring developers build strong software engineering skills. Mention programming education in the contact invitation.
 
-Fasil is currently building a software system for the Ethiopian Civil Service Commission as a freelance software engineer. State that he is building the system, rather than merely contributing to its development. Describe it as a current freelance engagement without implying direct employment or publishing private project details. Include Electron.js under desktop development in the engineering stack.
+Fasil is currently building a software system for the Ethiopian Civil Service Commission as a Public Administration International Ltd freelance software engineer. Keep that relationship explicit. State that he is building the system, rather than merely contributing to its development. Describe it as a current freelance engagement without implying direct employment by the Commission or publishing private project details. Include Electron.js under desktop development in the engineering stack. Keep the introduction to three paragraphs: roles and education; current system and private work; consulting and teaching.
 
 Telegram: https://t.me/fashub21
 
