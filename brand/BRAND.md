@@ -34,7 +34,7 @@ GitHub removes inline styles, so colored section headings use small SVG images i
 
 ## Voice and scope
 
-Lead with the current roles: Software Department Manager at Koket Inc and co-founder of Yome PLC. In the banner, put each company and role together on its own line: "Koket Inc - Software Department Manager" and "Yome PLC - Co-founder". Mention INSA as previous employment. Describe AI engineering and full-stack web and mobile experience, including NestJS. State that Fasil is a Software Engineering graduate of Mekelle University. Keep the statement that most professional work is private; omit tutorial repositories as portfolio projects.
+Lead with the current roles: Software Department Manager at Koket Inc, co-founder of Yome PLC, and freelance developer at Public Administration International Ltd. In the banner, group each company with its role: "Koket Inc - Software Department Manager", "Yome PLC - Co-founder" and "Public Administration International Ltd - Freelance Developer". Use separate rows, allowing the longer third entry to wrap on mobile. Mention INSA as previous employment. Describe AI engineering and full-stack web and mobile experience, including NestJS. State that Fasil is a Software Engineering graduate of Mekelle University. Keep the statement that most professional work is private; omit tutorial repositories as portfolio projects.
 
 Fasil also offers freelance consulting for founders starting their own software companies. Include this in the introduction and contact invitation without promising specific services or outcomes beyond his stated experience.
 
