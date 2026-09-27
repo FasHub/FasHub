@@ -7,7 +7,7 @@ I'm **Fasil Teshome**, Software Development Manager at **Koket Inc** and co-foun
 
 I'm a **Software Engineering graduate of Mekelle University**. Most of my professional work is in private repositories.
 
-My experience includes working on a **software product for the Ethiopian Civil Service Commission**.
+I currently work with the **Ethiopian Civil Service Commission** as a **freelance software engineer**, contributing to software product development.
 
 I offer **freelance consulting for founders starting their own software companies**. I also **teach programming languages** and help aspiring developers build strong software engineering skills.
 
