@@ -35,13 +35,13 @@ I'm an **AI engineer** with a background in full-stack web, mobile and desktop d
 
 <!-- profile-stats:start -->
 <p>
-  <img src="./assets/stat-contributions-year.svg" alt="2026 contributions: 2,995" width="250" height="114" />
-  <img src="./assets/stat-contributions-all-time.svg" alt="All-time contributions: 5,869" width="250" height="114" />
-  <img src="./assets/stat-commits-year.svg" alt="2026 visible commits: 5" width="250" height="114" />
-  <img src="./assets/stat-commits-all-time.svg" alt="All-time visible commits: 88" width="250" height="114" />
+  <img src="./assets/stat-contributions-year.svg" alt="2026 contributions: 3,001" width="250" height="114" />
+  <img src="./assets/stat-contributions-all-time.svg" alt="All-time contributions: 5,875" width="250" height="114" />
+  <img src="./assets/stat-commits-year.svg" alt="2026 visible commits: 11" width="250" height="114" />
+  <img src="./assets/stat-commits-all-time.svg" alt="All-time visible commits: 93" width="250" height="114" />
 </p>
 
-**36 public repositories** · **35 stars earned**
+**35 public repositories** · **35 stars earned**
 
 Contributions include publicly shared private activity. Commit totals cover contribution-eligible commits visible to the updater; private contributions are not counted as commits. All-time totals span the contribution years GitHub reports.
 <!-- profile-stats:end -->
