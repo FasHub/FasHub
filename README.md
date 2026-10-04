@@ -35,8 +35,8 @@ I'm an **AI engineer** with a background in full-stack web, mobile and desktop d
 
 <!-- profile-stats:start -->
 <p>
-  <img src="./assets/stat-contributions-year.svg" alt="2026 contributions: 4,301" width="250" height="114" />
-  <img src="./assets/stat-contributions-all-time.svg" alt="All-time contributions: 7,175" width="250" height="114" />
+  <img src="./assets/stat-contributions-year.svg" alt="2026 contributions: 4,323" width="250" height="114" />
+  <img src="./assets/stat-contributions-all-time.svg" alt="All-time contributions: 7,197" width="250" height="114" />
   <img src="./assets/stat-commits-year.svg" alt="2026 visible commits: 11" width="250" height="114" />
   <img src="./assets/stat-commits-all-time.svg" alt="All-time visible commits: 93" width="250" height="114" />
 </p>
