@@ -53,4 +53,6 @@ Contributions include publicly shared private activity. Commit totals cover cont
   </picture>
 </h2>
 
+> **We do not rise to the level of our goals, we fall to the level of our systems.**
+
 For software company consulting, programming education, engineering leadership or product development, connect with me on [LinkedIn](https://www.linkedin.com/in/fasil-teshome/) or [Telegram](https://t.me/fashub21).
