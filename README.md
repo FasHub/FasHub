@@ -35,10 +35,10 @@ I'm an **AI engineer** with a background in full-stack web, mobile and desktop d
 
 <!-- profile-stats:start -->
 <p>
-  <img src="./assets/stat-contributions-year.svg" alt="2026 contributions: 4,530" width="250" height="114" />
-  <img src="./assets/stat-contributions-all-time.svg" alt="All-time contributions: 7,404" width="250" height="114" />
-  <img src="./assets/stat-commits-year.svg" alt="2026 visible commits: 11" width="250" height="114" />
-  <img src="./assets/stat-commits-all-time.svg" alt="All-time visible commits: 93" width="250" height="114" />
+  <img src="./assets/stat-contributions-year.svg" alt="2026 contributions: 4,532" width="250" height="114" />
+  <img src="./assets/stat-contributions-all-time.svg" alt="All-time contributions: 7,406" width="250" height="114" />
+  <img src="./assets/stat-commits-year.svg" alt="2026 visible commits: 12" width="250" height="114" />
+  <img src="./assets/stat-commits-all-time.svg" alt="All-time visible commits: 94" width="250" height="114" />
 </p>
 
 **35 public repositories** · **35 stars earned**
