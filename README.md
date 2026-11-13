@@ -3,7 +3,7 @@
   <img src="./assets/profile-banner.svg" alt="Fasil Teshome — Koket Inc - Software Department Manager; Yome PLC - Co-founder; Public Administration International Ltd - Freelance Developer" width="100%" />
 </picture>
 
-I'm **Fasil Teshome**, Software Department Manager at **Koket Inc**, co-founder of **Yome PLC**, and a **freelance developer at Public Administration International Ltd**, based in Addis Ababa, Ethiopia. Previously, I worked at **INSA**. I'm a **Software Engineering graduate of Mekelle University**.
+I'm **Fasil Teshome**, Freelance Project Manager at **Koket Inc**, co-founder of **Yome PLC**, and a **freelance developer at Public Administration International Ltd**, based in Addis Ababa, Ethiopia. Previously, I worked at **INSA**. I'm a **Software Engineering graduate of Mekelle University**.
 
 I'm currently building a software system for the **Ethiopian Civil Service Commission** as a Public Administration International Ltd **freelance software engineer**. Most of my professional work is in private repositories.
 
